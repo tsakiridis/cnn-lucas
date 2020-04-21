@@ -1,0 +1,4 @@
+{
+  "LUCAS_RDATA": "/path/to/LUCAS.SOIL_corr.Rdata",
+  "DATA_PARTITION": "/path/to/data/mineral-split.csv"
+}
